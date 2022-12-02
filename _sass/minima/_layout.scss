@@ -251,11 +251,12 @@
   @media screen and (min-width: $on-large) {
     @include relative-font-size(2.625);
   }
-  text-align: justify;
 }
 
 .post-content {
   margin-bottom: $spacing-unit;
+
+  text-align: justify;
 
   h1, h2, h3, h4, h5, h6 { margin-top: $spacing-unit }
 
