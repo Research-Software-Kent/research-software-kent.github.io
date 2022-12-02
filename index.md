@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/kent-logo.jpg" style="height:100px;float:right:" />
+<img src="/kent-logo.jpeg" style="height:100px;float:right:" />
 
 Research Software Kent is a network of researchers at the University of Kent who routinely develop software as a key part of their research, e.g., for the purposes of numerical modelling, data analysis, or as a key output of their work.  The group exists to help promote best practises in software engineering to maximise the value of software for research, and to provide help and support to those engaging in software engineering for research purposes.
 
