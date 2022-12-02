@@ -18,11 +18,8 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
 
 <div id='signUp'>[Sign-up to the mailing list](https://lists.kent.ac.uk/sympa/info/research-software-kent)</div>
 
-## Upcoming events
 
-__Coming in 2023: seminar series on key software engineering practises__
-
-## News
+## Posts
 
 <ul>
   {% for post in site.posts %}
@@ -31,3 +28,7 @@ __Coming in 2023: seminar series on key software engineering practises__
     </li>
   {% endfor %}
 </ul>
+
+## Upcoming events
+
+__Coming in 2023: seminar series on key software engineering practises__
