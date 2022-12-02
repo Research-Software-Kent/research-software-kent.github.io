@@ -33,6 +33,6 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
   {% endfor %}
 </ul>
 
-## Upcoming events
+## Events
 
-__Coming in 2023: seminar series on key software engineering practises__
+Coming in 2023: seminar series on key software engineering practises
