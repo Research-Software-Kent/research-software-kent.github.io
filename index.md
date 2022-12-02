@@ -6,6 +6,7 @@ layout: default
   #signUp {
     border-style: outline;
     font-family: Overpass;
+    font-size: 14pt;
     border-width: 1px;
   }
 </style>
@@ -14,7 +15,7 @@ Research Software Kent is a network of researchers at the University of Kent who
 
 This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/people/3074/orchard-dominic), School of Computing. Do [e-mail me](mailto:d.a.orchard@kent.ac.uk) if you have any questions.
 
-<a href="https://lists.kent.ac.uk/sympa/info/research-software-kent"><div id='signUp'>Sign-up to the mailing list</div></a>
+[<div id='signUp'>Sign-up to the mailing list</div>](https://lists.kent.ac.uk/sympa/info/research-software-kent)
 
 ## Upcoming events
 
