@@ -7,12 +7,16 @@ layout: default
     display: inline-block;
     border-style: solid;
     font-family: Overpass;
-    font-size: 14pt;
+    font-size: 15pt;
     border-width: 1px;
     cursor: pointer;
     border-radius: 5px;
     box-shadow: 1px 2px #ccc;
     margin: 10px;
+    padding: 9px;
+    text-decoration: underline;
+    background: #FCEDA3;
+
   }
 </style>
 
