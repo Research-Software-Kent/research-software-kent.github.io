@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Why Rsearch Software Kent? and mailing list"
+title: "Why Research Software Kent?"
 categories: misc
 ---
 
-We have just launched this website, with the aim of collecting together people at
-Kent are interested via our network. The best way to join is to sign-up to our
+We have just launched this website, with the aim of collecting together people at Kent are interested in joining our network to support the role of software in research. The best way to join is to sign-up to our
 [mailing list](https://lists.kent.ac.uk/sympa/info/research-software-kent) to hear
 about events in 2023.
 
