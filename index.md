@@ -14,7 +14,8 @@ layout: default
     box-shadow: 1px 2px #ccc;
     margin: 10px;
     padding: 9px;
-    text-decoration: underline;
+    color: #000;
+    text-decoration: none;
     background: #FCEDA3;
 
   }
