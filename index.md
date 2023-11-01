@@ -43,4 +43,4 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
 
 ## Events
 
-* __Wednesday 8th November 2023, 3pm__ - _'Why is research software important?'_ - Please sign up to the mailing list to get the location (TBD) and/or invite link. For this initial session I would like to collect some examples of good practice already going on, so if you have something you are proud of and wouldn't mind sharing, then please let me know.
+* __Wednesday 8th November 2023, 3pm__ - _'Why is research software important?'_ - Kennedy Seminar Room 2 - Please sign up to the mailing list for an invite link. For this initial session I would like to collect some examples of good practice already going on, so if you have something you are proud of and wouldn't mind sharing, then please let me know.
