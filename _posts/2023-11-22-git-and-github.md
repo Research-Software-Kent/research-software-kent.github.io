@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Training session: Using Git and GitHub together, effectively
+title: "Training session - Using Git and GitHub together, effectively"
 categories: training
 ---
 
