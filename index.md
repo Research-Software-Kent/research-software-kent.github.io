@@ -43,7 +43,7 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
 
 ## Events
 
-* __Wednesday 6th December 2023, 3pm__ - _TBD
+* __Wednesday 6th December 2023, 3pm__ - 'Errors and where to find them' (Gary Thompson) An introduction to bugs and errors in the field:  how to find them, how to understand them, how to fix them and how to avoid them. The talk will be centred round python and will cover stack traces, Exceptions, throwing Exceptions and a brief introduction to why testing is a good idea…
 
 * __Wednesday 22nd November 2023, 3pm__ - 'Training session: Using Git and GitHub together, effectively' -
 This will be our first "training" focussed session. Dominic will give a bit of an whistle stop tour of some core Git ideas and then using this in concert with GitHub. A cursory knowledge of using Git will be helpful, so looking at some introductory resources first (e.g., [the gittutorial](https://git-scm.com/docs/gittutorial)) will be helpful.
