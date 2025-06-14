@@ -43,6 +43,20 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
 
 ## Events
 
+* __Friday 13th June 2025, 2pm__ - 'Workshop on Testing' (Kennedy SR2) - In this short workshop we'll look at concepts around software correctness and testing, with practical examples using Python and the pytest framework for unit testing.
+
+* __Thursday 29th May 2025, 3pm__ - 'Software Citation - How to be citable and how to cite' (Dominic Orchard) - In this talk, I'll look at how to make research software citable, how to cite others, and how to encourage software citation within your own discipline.
+
+* __Wednesday 3rd April at 3pm__ (KenSR6) Last meeting of term, informal discussion and cakes!
+
+* __Wednesday 6th March 2024__ - Second __code clinic__ of the term. Come by if you want to talk through any problems your are having with your code and get some support!
+
+* __Wednesday 21st February 2024__ - 'Pair Programming' (Dominic Orchard) - Pair programming is a technique for working with another person which can aid problem solving and provide live code review. This can be particularly helpful for on-boarding new team members and students or to work through difficult problems together. There are a few 'paradigms' that I will talk through (and I can point to some further resources).
+
+* __Wednesday 6th February 2024__ - Our first __Code clinic__ session. Drop by to discuss any problems and get help!
+
+* __Wednesday 24th January 2024__ - 'Continuous integration and GitHub actions' (Stefan Marr) 
+
 * __Wednesday 6th December 2023, 3pm__ - 'Errors and where to find them' (Gary Thompson) An introduction to bugs and errors in the field:  how to find them, how to understand them, how to fix them and how to avoid them. The talk will be centred round python and will cover stack traces, Exceptions, throwing Exceptions and a brief introduction to why testing is a good idea…
 
 * __Wednesday 22nd November 2023, 3pm__ - 'Training session: Using Git and GitHub together, effectively' -
