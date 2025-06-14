@@ -31,7 +31,7 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
 </span>
 
 
-## Posts
+## Blog posts
 
 <ul>
   {% for post in site.posts %}
@@ -41,7 +41,7 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
   {% endfor %}
 </ul>
 
-## Events
+## Events and News
 
 * __Friday 13th June 2025, 2pm__ - 'Workshop on Testing' (Kennedy SR2) - In this short workshop we'll look at concepts around software correctness and testing, with practical examples using Python and the pytest framework for unit testing.
 
