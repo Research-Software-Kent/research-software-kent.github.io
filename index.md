@@ -43,7 +43,9 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
 
 ## Events and News
 
-* __Friday 13th June 2025, 2pm__ - 'Workshop on Testing' (Kennedy SR2) - In this short workshop we'll look at concepts around software correctness and testing, with practical examples using Python and the pytest framework for unit testing.
+* __Wednesday 3rd December 2025, 1pm__ - 'Programming with LLMs and Agentic AI' (Kennedy SR6) (Dominic Orchard) - A short presentation discussing pitfalls and opportunities of using Large Language Models (like ChatGPT, Claude, Gemini) for programming and software engineering activities, with demos and discussion sharing experiences with these technologies.
+
+* __Friday 13th June 2025, 2pm__ - 'Workshop on Testing' (Kennedy SR2) (Dominic Orchard) - In this short workshop we'll look at concepts around software correctness and testing, with practical examples using Python and the pytest framework for unit testing.
 
 * __Thursday 29th May 2025, 3pm__ - 'Software Citation - How to be citable and how to cite' (Dominic Orchard) - In this talk, I'll look at how to make research software citable, how to cite others, and how to encourage software citation within your own discipline.
 
