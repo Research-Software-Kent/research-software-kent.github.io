@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "EVERSE Research Software Quality Kit"
+title: "Talk: EVERSE Research Software Quality Kit by Michael Sparks"
 categories: seminar
 date: 2026-05-27
 ---
