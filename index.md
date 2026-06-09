@@ -43,9 +43,9 @@ This group is managed by [Dominic Orchard](https://www.kent.ac.uk/computing/peop
 
 ## Events and News
 
-* __Wednesday 10th June 2026, 3pm__ - Seminar (speaker/topic to be announced) <span style="color:red; font-size:small">(upcoming)</span>
+* __Wednesday 10th June 2026, 3pm__ - _AI² - AIs writing software so your software can be run by AIs_, Gary Thompson (University of Kent) <span style="color:red; font-size:small">(upcoming)</span>
 
-* __Wednesday 27th May 2026, 3pm__ - 'EVERSE Research Software Quality Kit' (Kennedy SR2) (Michael Sparks, University of Manchester) - Introducing the [EVERSE](https://everse.eu/) project and [RSQKit](https://everse.software/RSQKit/), a curated toolkit of best practices for improving research software quality, covering FAIR software, open research, and community development. <span style="color:red; font-size:small">(upcoming)</span>
+* __Wednesday 27th May 2026, 3pm__ - 'EVERSE Research Software Quality Kit' (Kennedy SR2) (Michael Sparks, University of Manchester) - Introducing the [EVERSE](https://everse.eu/) project and [RSQKit](https://everse.software/RSQKit/), a curated toolkit of best practices for improving research software quality, covering FAIR software, open research, and community development.
 
 * __Wednesday 3rd December 2025, 1pm__ - 'Programming with LLMs and Agentic AI' (Kennedy SR6) (Dominic Orchard) - A short presentation discussing pitfalls and opportunities of using Large Language Models (like ChatGPT, Claude, Gemini) for programming and software engineering activities, with demos and discussion sharing experiences with these technologies.
 
