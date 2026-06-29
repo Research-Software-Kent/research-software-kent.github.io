@@ -7,7 +7,8 @@ permalink: /resources/
 ## Featured Video
 
 <a href="https://www.youtube.com/watch?v=cWzS2CtMH_U" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.youtube.com/vi/cWzS2CtMH_U/hqdefault.jpg" alt="Watch the featured Research Software Kent video on YouTube" style="max-width:100%; height:auto; border:1px solid #d5d5d5; border-radius:6px;" />
+  <img src="https://img.youtube.com/vi/cWzS2CtMH_U/hqdefault.jpg" alt="Using Git and GitHub together, effectively - Dominic Orchard" style="max-width:50%; height:auto; border:1px solid #d5d5d5; border-radius:6px;" />
+  Using Git and GitHub together, effectively - Dominic Orchard
 </a>
 
 [Watch on YouTube](https://www.youtube.com/watch?v=cWzS2CtMH_U)
